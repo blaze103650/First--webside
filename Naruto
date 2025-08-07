@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Naruto</title>
+    <style>
+      body {
+        background-color: white;
+        color: black;
+        text-align: center;
+        
+      }
+      h1 {
+        color: orangered;
+      }
+      h2 {
+        color: orangered;
+      }
+      b {
+        color: ;
+      }
+      button {
+        color: white;
+        background-color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Naruto</b></h1>
+    <p>
+      
+    </p>
+    <h2>Naruto</h2>
+    <p>
+      
+    </p>
+    <img src/>
+    <button>👉 For more Info</button>
+  </body>
+</html>
